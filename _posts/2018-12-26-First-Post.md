@@ -1,5 +1,4 @@
 서울_8반_최수인, https://github.com/csi0416/ssafy
----
 
 #1. 스펙(Specification)
 ---
